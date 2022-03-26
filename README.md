@@ -25,7 +25,13 @@ Once this runs, check the "Forwarding" line to find your IP address, something l
 
 Change these values in "server.py" & "client.py" now, and you are all set!
 
-(c) Copyright XPauto
+----------------
 
 NOTE: ALL DISTRIBUTIONS HAVE TO COME WITH THE LICENSE.
 
+   
+MIT License
+
+Copyright (c) 2022 XPauto
+
+----------------
